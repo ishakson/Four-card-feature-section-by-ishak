@@ -12,3 +12,14 @@
 
     --font-family: 'Poppins', sans-serif;/*200 400 600 15px*/
 }
+
+html {
+    font-size: 10px;
+}
+
+body {
+    font-family: var(--font-family);
+    background-color: var(--very-light-gray);
+    font-size: 1.5rem;
+    color: var(--very-dark-blue);
+}
